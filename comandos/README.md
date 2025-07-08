@@ -6,4 +6,6 @@ git config --global init.defaultBranch main
 git init
 git add .
 git commit -m 'Mensagem'
-git remote add origin git@github.com:ViniBorgesBT/Projeto-Agenda.git *
+git remote add origin git@github.com:ViniBorgesBT/Projeto-Agenda.git 
+
+git rebase 'me salvou'ce
